@@ -12,7 +12,7 @@
 💥 Outputs powerful anime-inspired messages for every case
 
 🥷 Perfect for beginners practicing conditional statements
-==============================================================================================================================
+
 🛡️ How to Run the Voting System 🛡️
 
 Make sure you have Python 3.x installed — download it from python.org
@@ -45,7 +45,7 @@ under 18
 
 Enter your age: 15
 failed
-================================================================================================================================
+
 🎇 Level Up Ideas! 🎇
 
 Add fancy messages and emojis to make the output more fun
@@ -67,7 +67,7 @@ You’ve stepped into the arena and shaped destiny — your voice echoes through
 ✨ Keep your spirit fierce, your code cleaner, and your heart full of hope! ✨
 
 (づ｡◕‿‿◕｡)づ 🌸 Ganbatte, coder! 🌸
-================================================================================================================================
+
 🎴 Anime Action Stickers for Your Spirit! 🎴 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Let's vote like champions!
 (≧▽≦)/ You’re the hero we needed!
 (ง •̀_•́)ง Ready for battle!
