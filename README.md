@@ -1,64 +1,64 @@
 ⚔️🌸 VOTING SYSTEM: THE ULTIMATE DECISION BATTLE! 🌸⚔️
 
-“In a world where every vote counts, the fate of the realm lies in your hands... Will you rise as the hero and cast your sacred vote?!”
-(✧ω✧) 𝓛𝓮𝓽'𝓼 𝓭𝓲𝓿𝓮 𝓲𝓷! ٩(◕‿◕｡)۶
+“Step forth, brave warrior! Your vote holds the key to shaping destiny’s path. Will you rise and cast your sacred decision?”
+(✧ω✧) 𝓛𝓮𝓽'𝓼 𝓬𝓪𝓼𝓽 𝔂𝓸𝓾𝓻 𝓿𝓸𝓽𝓮 𝓲𝓷 𝓼𝓽𝔂𝓵𝓮! ٩(◕‿◕｡)۶
 
-🌟 Features of Justice 🌟
+🌟 Features of the Voting System 🌟
 
-🔥 Simple, powerful voting command-line duel!
-🌸 Cast your YES or NO vote — the choice that decides destiny!
-💥 Instant epic feedback with emoji power attacks!
-🥷 Crafted for beginner ninjas mastering Python’s conditional magic!
-⚔️ Let your voice roar louder than a thousand dragons!
+🗡️ Simple Python script to check if you’ve passed the age trial
 
-🛡️ How to Summon the Power (Run the Script) 🛡️
+🌸 Determines if age is over, equal to, or below 18
 
-Prepare your Python katana — install Python 3.x from python.org
+💥 Outputs powerful anime-inspired messages for every case
 
-Save the sacred script below as voting_system.py:
+🥷 Perfect for beginners practicing conditional statements
+==============================================================================================================================
+🛡️ How to Run the Voting System 🛡️
 
-vote = input("⚔️ Cast your vote (yes/no): ").strip().lower()
+Make sure you have Python 3.x installed — download it from python.org
+ if needed!
 
-if vote == 'yes':
-    print("🌸 You chose YES! Your vote strikes like a cherry blossom storm! (≧◡≦) ✨")
-elif vote == 'no':
-    print("🔥 You chose NO! Your voice burns with fierce conviction! (｡•̀ᴗ-)✧")
+Save this code in a file named voting_system.py:
+
+age = int(input("Enter your age: "))
+if age > 18:
+    print("passed")
+elif age == 18:
+    print("under 18")
 else:
-    print("💥 Invalid move! Only 'yes' or 'no' can wield this power! (╯︵╰,) Try again!")
+    print("failed")
 
 
-Open your battle arena (Terminal or CMD) and unleash your power:
+Open your command line (Terminal / CMD), navigate to the file location, and run:
 
 python voting_system.py
 
 
-Input your vote and watch the sparks fly! ⚡⚡⚡
+Enter your age when prompted and see the result!
 
-⚡ Sample Battle Logs ⚡
-⚔️ Cast your vote (yes/no): yes
-🌸 You chose YES! Your vote strikes like a cherry blossom storm! (≧◡≦) ✨
+⚡ Example Runs ⚡
+Enter your age: 21
+passed
 
-⚔️ Cast your vote (yes/no): no
-🔥 You chose NO! Your voice burns with fierce conviction! (｡•̀ᴗ-)✧
+Enter your age: 18
+under 18
 
-⚔️ Cast your vote (yes/no): maybe
-💥 Invalid move! Only 'yes' or 'no' can wield this power! (╯︵╰,) Try again!
+Enter your age: 15
+failed
+================================================================================================================================
+🎇 Level Up Ideas! 🎇
 
-🎇 Level Up Your Script! 🎇
+Add fancy messages and emojis to make the output more fun
 
-💫 Add more epic vote options — "abstain", "maybe", or "revote"
+Include input validation to catch non-numeric inputs
 
-🌈 Paint your output with colorama magic — splash your terminal with neon vibes!
+Loop the program so you can check multiple ages without restarting
 
-🕹️ Loop the battle — allow multiple rounds of voting!
-
-🌸 Embed ASCII art battles — dragons, warriors, or magical girls!
-
-⚔️ Integrate sound effects with Python libraries for ultimate immersion!
+Combine with other systems for an epic combo app!
 
 📜 License of Honor 📜
 
-This sacred code is granted to all warriors under the MIT License — wield it with honor and share the power!
+This script is shared under the MIT License — free to use and share with all warriors of code!
 
 🌸 Thank You, Brave Voter! 🌸
 
@@ -67,11 +67,10 @@ You’ve stepped into the arena and shaped destiny — your voice echoes through
 ✨ Keep your spirit fierce, your code cleaner, and your heart full of hope! ✨
 
 (づ｡◕‿‿◕｡)づ 🌸 Ganbatte, coder! 🌸
-
-🎴 Anime Action Stickers for Your Spirit! 🎴
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Let's vote like champions!  
-(≧▽≦)/ You’re the hero we needed!  
-(ง •̀_•́)ง Ready for battle!  
-(✿◠‿◠) Stay kawaii and powerful!  
-(ง'̀-'́)ง Fight on, brave coder!  
-(｡♥‿♥｡) Your vote is love and justice!  
+================================================================================================================================
+🎴 Anime Action Stickers for Your Spirit! 🎴 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Let's vote like champions!
+(≧▽≦)/ You’re the hero we needed!
+(ง •̀_•́)ง Ready for battle!
+(✿◠‿◠) Stay kawaii and powerful!
+(ง'̀-'́)ง Fight on, brave coder!
+(｡♥‿♥｡) Your vote is love and justice!
